@@ -1,0 +1,8 @@
+[
+  {
+    "provider": "azure",
+    "parameters": ["gallego", "hola"],
+    "promptTemplate": "como se dice en {p1} la palabra {p2}",
+    "expected": "Ola"
+  }
+]
