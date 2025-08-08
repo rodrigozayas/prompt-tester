@@ -1,0 +1,23 @@
+{
+  "name": "prompt-tester",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@azure/identity": "latest",
+    "axios": "^1.9.0",
+    "dotenv": "^17.2.1",
+    "exceljs": "^4.4.0",
+    "luxon": "^3.6.1",
+    "openai": "latest",
+    "xlsx": "^0.18.5"
+  }
+}

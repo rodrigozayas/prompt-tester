@@ -1,0 +1,8 @@
+[
+  {
+    "provider": "azure",
+    "parameters": ["gallego", "hola"],
+    "promptTemplate": "que idioma es el {p1} y como se dice {p2} en ese idioma",
+    "expected": "Se dice Ola en gallego"
+  }
+]
